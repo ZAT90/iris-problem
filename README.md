@@ -1,4 +1,4 @@
-****Iris Flower Classification Problem****
+**Iris Flower Classification Problem**
 A Jupyter Notebook project to classify iris flowers (Setosa, Versicolor, Virginica) based on sepal and petal dimensions using logistic regression.
 
 Project Overview
