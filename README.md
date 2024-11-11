@@ -6,6 +6,8 @@ This project uses a Jupyter Notebook to classify iris flowers (Setosa, Versicolo
 
 [Overview](#overview)
 
+[Techniques Covered](#techniques-covered)
+
 [Features](#features)
 
 [Usage](#usage)
