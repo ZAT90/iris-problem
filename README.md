@@ -22,3 +22,8 @@ The goal of this project is to build a classification model for predicting the s
 - Metrics: Includes accuracy, confusion matrix, and classification report for a thorough evaluation.
 - Data Visualization: Confusion matrix visualized with Seaborn heatmap.
 
+## Usage
+- Load and preprocess the Iris dataset.
+- Split the data into training and testing sets.
+- Train a logistic regression model.
+- Evaluate the model and view results.
