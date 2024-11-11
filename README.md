@@ -18,6 +18,12 @@ This project uses a Jupyter Notebook to classify iris flowers (Setosa, Versicolo
 ## OverView
 The goal of this project is to build a classification model for predicting the species of iris flowers. Using logistic regression, the model classifies flowers based on four physical measurements. The notebook includes data loading, model training, and evaluation with accuracy, a confusion matrix, and a classification report.
 
+## Techniques Covered
+- Logistic Regression (for multiclass classification).
+- Classification: Identifying which class (species) an iris flower belongs to.
+- Evaluation Metrics: Accuracy, confusion matrix, classification report.
+- Data Preprocessing: Feature scaling, splitting data into training and testing sets.
+
 ## Features
 - Logistic Regression: Simple, interpretable model for multiclass classification.
 - Metrics: Includes accuracy, confusion matrix, and classification report for a thorough evaluation.
