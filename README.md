@@ -17,6 +17,8 @@ Project Overview
 ## OverView
 The goal of this project is to build a classification model for predicting the species of iris flowers. Using logistic regression, the model classifies flowers based on four physical measurements. The notebook includes data loading, model training, and evaluation with accuracy, a confusion matrix, and a classification report.
 
-Dataset
-Source: Iris dataset (built-in scikit-learn)
-Features: Sepal length, Sepal width, Petal length, Petal width
+## Features
+- Logistic Regression: Simple, interpretable model for multiclass classification.
+- Metrics: Includes accuracy, confusion matrix, and classification report for a thorough evaluation.
+- Data Visualization: Confusion matrix visualized with Seaborn heatmap.
+
