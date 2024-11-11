@@ -27,3 +27,11 @@ The goal of this project is to build a classification model for predicting the s
 - Split the data into training and testing sets.
 - Train a logistic regression model.
 - Evaluate the model and view results.
+
+## Dependencies
+```
+pandas
+seaborn
+matplotlib
+scikit-learn
+```
